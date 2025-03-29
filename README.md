@@ -39,7 +39,7 @@ Here’s what you’ll find in this repository:
 ## 📌 How to Use This Repository
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/itsnikhils45/ml-dl-projects.git
+   git clone https://github.com/itsnikhils45/My-Data-Science-Projects.git
    cd ml-dl-projects
 
 
